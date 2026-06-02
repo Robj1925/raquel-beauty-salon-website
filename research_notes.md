@@ -14,7 +14,9 @@ We have verified and consolidated the following official business details for th
     *   *Accessibility:* Walk-ins are welcome, and dedicated parking is available for clients.
 *   **Stylist Background:** Raquel has been styling and cutting hair for **over 20 years** in the local community.
 *   **Target Audience:** Specializes in and targets **men's haircuts & styling**, alongside a full range of women's and children's styling.
-*   **Phone Number:** **(609) 529-3838** (Extracted from active Facebook metadata and verified on Google Maps).
+*   **Phone Numbers:**
+    *   **Salon Landline:** **(609) 448-7243**
+    *   **Stylist Cell:** **(609) 529-3838** (Supports Calls & Texts)
 *   **Booking Flow:** Customers can **call or text** her directly to schedule an appointment. 
 *   **Google Business Profile Status:** 
     *   **Rating:** 5.0 ⭐⭐⭐⭐⭐ (Perfect 5.0 star business profile!)
