@@ -12,7 +12,7 @@ We have verified and consolidated the following official business details for th
 *   **Salon Address:** **128 Franklin Street, Hightstown, NJ 08520**
     *   *Landmark:* Located right next to the **Mercer County Library: Hightstown Memorial Branch**.
     *   *Accessibility:* Walk-ins are welcome, and dedicated parking is available for clients.
-*   **Stylist Background:** Raquel Baldwin has been styling and cutting hair for **over 20 years**. She previously worked directly with Craig Nelson, the highly respected owner of the former *Main Street Salon* in Hightstown.
+*   **Stylist Background:** Raquel has been styling and cutting hair for **over 20 years** in the local community.
 *   **Target Audience:** Specializes in and targets **men's haircuts & styling**, alongside a full range of women's and children's styling.
 *   **Phone Number:** **(609) 529-3838** (Extracted from active Facebook metadata and verified on Google Maps).
 *   **Booking Flow:** Customers can **call or text** her directly to schedule an appointment. 
@@ -25,7 +25,7 @@ We have verified and consolidated the following official business details for th
 *   **Active Social Profiles:**
     *   **Facebook Page:** [Raquel Beauty Salon on Facebook](https://www.facebook.com/people/Raquel-Beauty-Salon/100031887206788/) (210 likes)
     *   **Instagram Handle:** [@raquelbeautysalon__](https://www.instagram.com/raquelbeautysalon__)
-    *   **TikTok Handle:** [@Raquel Baldwin](https://tiktok.com/@Raquel%20Baldwin%20)
+    *   **TikTok Handle:** [@Raquel](https://tiktok.com/@Raquel)
 
 ---
 
