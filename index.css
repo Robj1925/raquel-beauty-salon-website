@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@300;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-club-dark text-club-light font-body scroll-smooth;
+  }
+  h1, h2, h3, h4 {
+    @apply font-heading tracking-wide;
+  }
+}
+
+/* Ensure minimum footprint for interactive elements on mobile devices */
+a, button {
+  min-width: theme('spacing.touch');
+  min-height: theme('spacing.touch');
+}
