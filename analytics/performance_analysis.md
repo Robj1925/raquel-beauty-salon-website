@@ -6,20 +6,25 @@ This report analyzes the performance metrics for **Raquel Beauty Salon**'s Googl
 
 ## 📈 Executive Summary
 
-* **Total Interactions:** **420** Business Profile interactions (calls, website clicks, direction requests, and bookings).
-* **Overall Trend:** Performance peaked in January, followed by a seasonal stabilization during the spring, and a downward trend moving into the summer months.
-* **Primary Opportunity:** The launch of the new website and the optimization of the Google Business Profile description and categories will capture local search queries, reverse the summer dip, and convert views into phone/text bookings.
+* **Total Interactions:** **420** Business Profile interactions.
+  * **Direction Requests:** **303** (72.1% of total interactions) - The primary driver of profile activity.
+  * **Phone Calls:** **117** (27.9% of total interactions) - Direct lead/booking channel.
+  * **Website Clicks & Bookings:** **0** - High growth opportunity (due to the lack of a website link previously).
+* **Overall Trend:** High navigation and intent activity in January, followed by stable phone calling activity peaking in March/April, and a general seasonal decline as summer approaches.
 
 ---
 
-## 📊 Monthly Performance Breakdown
+## 📊 Monthly Metrics & Trends Breakdown
 
-Based on the performance metrics chart:
+### 🚗 Direction Requests (303 Total)
+* **Trend:** High peak in January (~110 requests), dropping to a stable baseline of ~50-60 requests from February through April, and sliding to ~30 in May.
+* **Analysis:** Direction requests represent high-intent foot traffic or driving clients. The high baseline shows strong repeat customer patterns and local search discovery.
+* **Graphic:** ![Directions Chart](gbp_directions_jan_jun_2026.png)
 
-1. **January 2026 (Peak: ~120 interactions):** High traffic period. Likely driven by the post-holiday haircut rush, new year resolutions, and return to work/school routines.
-2. **February 2026 (Dip: ~70 interactions):** Typical mid-winter dip. Fewer community events and cold weather result in lower search activity.
-3. **March 2026 (Recovery: ~90 interactions) & April 2026 (~80 interactions):** Spring refresh period. As weather warms up, clients seek regular hair trims and updates.
-4. **May 2026 (Dip: ~60 interactions) & June 2026 (Trailing):** Late spring/early summer lull. Common for salons without active digital promotions, as people travel and routines shift.
+### 📞 Phone Calls (117 Total)
+* **Trend:** Remained low in January/February (~12-13 calls/month) but doubled in March (~29 calls) and April (~30 calls), remaining strong in May (~27 calls).
+* **Analysis:** While direction requests dropped in spring, actual booking calls doubled. This shows that clients who already knew the route (fewer direction requests) were calling in regularly for spring trims and treatments.
+* **Graphic:** ![Calls Chart](gbp_calls_jan_jun_2026.png)
 
 ---
 
