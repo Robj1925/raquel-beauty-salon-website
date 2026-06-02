@@ -46,4 +46,12 @@ To reverse the summer slowdown and grow interactions beyond the 120/month peak:
 
 ---
 
+## 📅 Baseline Reference & Future Tracking
+
+* **Website Launch Date:** **June 2, 2026** (Today)
+* **Performance Baseline:** All metrics prior to today (January – June 2026) establish our pre-website baseline.
+* **Tracking Plan:** Starting today, we will monitor Google Business Profile metrics onwards to measure how the newly launched website affects salon growth—focusing specifically on the emergence of **Website Clicks**, growth in monthly **Phone Calls**, and overall local visibility.
+
+---
+
 *Report generated on June 2, 2026, for Raquel Beauty Salon.*
