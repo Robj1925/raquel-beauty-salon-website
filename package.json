@@ -1,7 +1,7 @@
 {
   "name": "raquel-beauty-salon-website",
   "version": "1.0.0",
-  "description": "High-converting premium website for Raquel Beauty Salon in Hightstown, NJ",
+  "description": "High-converting premium website for Raquel's Beauty Salon in Hightstown, NJ",
   "main": "index.html",
   "scripts": {
     "dev": "npx tailwindcss -i ./index.css -o ./dist/output.css --watch & npx local-web-server",

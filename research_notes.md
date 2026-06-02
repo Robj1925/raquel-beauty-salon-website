@@ -1,6 +1,6 @@
-# Raquel Beauty Salon - Consolidated Research & Scraped Assets
+# Raquel's Beauty Salon - Consolidated Research & Scraped Assets
 
-Welcome to the official, consolidated research and asset portfolio for the **Raquel Beauty Salon** website project. 
+Welcome to the official, consolidated research and asset portfolio for the **Raquel's Beauty Salon** website project. 
 
 Using an advanced browser agent (Playwright) to resolve dynamic Maps search redirects and bypass bot walls, we have successfully scraped her active **Google Business Profile** and **Facebook Page**, extracting her exact contact details, active social handles, and **12 high-quality hairstyle transformation photos** directly into your project's workspace assets folder.
 
@@ -25,7 +25,7 @@ We have verified and consolidated the following official business details for th
         *   **Monday through Saturday:** 9:00 AM – 9:00 PM
         *   **Sunday:** 10:00 AM – 10:00 PM *(Call beforehand)*
 *   **Active Social Profiles:**
-    *   **Facebook Page:** [Raquel Beauty Salon on Facebook](https://www.facebook.com/people/Raquel-Beauty-Salon/100031887206788/) (210 likes)
+    *   **Facebook Page:** [Raquel's Beauty Salon on Facebook](https://www.facebook.com/people/Raquel-Beauty-Salon/100031887206788/) (210 likes)
     *   **Instagram Handle:** [@raquelbeautysalon__](https://www.instagram.com/raquelbeautysalon__)
     *   **TikTok Handle:** [@Raquel](https://tiktok.com/@Raquel)
 

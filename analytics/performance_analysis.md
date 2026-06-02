@@ -1,6 +1,6 @@
 # Google Business Profile Performance Analysis (Jan 2026 – Jun 2026)
 
-This report analyzes the performance metrics for **Raquel Beauty Salon**'s Google Business Profile (GBP) over the six-month period from January 2026 to June 2026.
+This report analyzes the performance metrics for **Raquel's Beauty Salon**'s Google Business Profile (GBP) over the six-month period from January 2026 to June 2026.
 
 ---
 
@@ -54,4 +54,4 @@ To reverse the summer slowdown and grow interactions beyond the 120/month peak:
 
 ---
 
-*Report generated on June 2, 2026, for Raquel Beauty Salon.*
+*Report generated on June 2, 2026, for Raquel's Beauty Salon.*
