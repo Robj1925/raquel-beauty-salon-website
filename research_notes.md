@@ -17,6 +17,7 @@ We have verified and consolidated the following official business details for th
 *   **Phone Numbers:**
     *   **Salon Landline:** **(609) 448-7243**
     *   **Stylist Cell:** **(609) 529-3838** (Supports Calls & Texts)
+    *   **Makeup Artist Cell:** **(609) 865-1779** (Raquel's daughter, Supports Calls & Texts, By Appointment Only)
 *   **Booking Flow:** Customers can **call or text** her directly to schedule an appointment. 
 *   **Google Business Profile Status:** 
     *   **Rating:** 5.0 ⭐⭐⭐⭐⭐ (Perfect 5.0 star business profile!)
